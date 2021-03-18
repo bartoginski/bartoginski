@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bartoginski
 - 👀 I’m interested in learning new things📚
-- 🌱 I’m currently learning Dart / JavaScript / Pyton / PHP
+- 🌱 I’m currently learning Flutter / Swift / Javascript
+- 💻 My page https://bartoginski.github.io/
 
 <!---
 bartoginski/bartoginski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
