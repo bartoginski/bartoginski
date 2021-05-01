@@ -1,3 +1,4 @@
+![banner](./banner2.png)
 # About me
 - 👋 Hi, I’m @bartoginski
 - 📱 I wanna be Mobile Developer
