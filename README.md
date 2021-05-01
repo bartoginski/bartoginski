@@ -1,4 +1,4 @@
-![banner](./banner2.png)
+[![banner](./banner3.png)](https://bartoginski.technology/)
 # About me
 - 👋 Hi, I’m @bartoginski
 - 📱 I wanna be Mobile Developer
