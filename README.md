@@ -4,6 +4,7 @@
 - 📱 I wanna be Mobile Developer
 - 🌱 I’m currently learning Flutter / Swift / Javascript
 - 💻 Check my website: https://bartoginski.technology/
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/bartosz-ogi%C5%84ski-004b6a218/)
 
 
 
