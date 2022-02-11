@@ -1,1 +1,3 @@
+```
 Silence is gold 🤫
+```
