@@ -1,6 +1,6 @@
 ```
 Silence is gold 🤫
-
-New ✨portfolio✨ is in progress ⚒️
-Check my LinkedIn: [Bartosz Ogiński](https://www.linkedin.com/in/bartosz-oginski)
 ```
+New ✨portfolio✨ in progress ⚒️
+
+Check my LinkedIn: [Bartosz Oginski](https://www.linkedin.com/in/bartosz-oginski/)
