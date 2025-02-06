@@ -11,6 +11,11 @@ I have collaborated in the development of large-scale projects:
 - [MetroPlus Health](https://metroplus.org/) + [MetroPlus Health Search Provider App](https://metroplus.org/search-providers/)
 - [LV Collective](https://lvcollective.com/)
 
+## My personal projects (in progress, excited to share soon):
+- 🔨 Portfolio 🔨
+- 🤫 Mobile Lego App 🤫
+- 📔 Something Personal 📔
+
 ## 👨‍💻 Skills and Technologies 👨‍💻
 
 ### Web Development
