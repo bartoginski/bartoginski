@@ -7,8 +7,8 @@ Welcome to my profile! I am a highly motivated Frontend Developer with expertise
 ## 📸 Professional Highlights 📸
 I have collaborated in the development of large-scale projects:
 - [Bric](https://bricartsmedia.org/) ✨Nominated Website: [Webby Awards](https://winners.webbyawards.com/2024/websites-and-mobile-sites/mobile-specific-features-design/best-mobile-visual-design-function-mobile-features/294466/bric-arts--media)✨
+- [Texas Real Estate Research Center](https://trerc.tamu.edu/) ✨[Won a Web Excellence Award](https://we-awards.com/winner/trerc-turning-data-into-insights/)✨
 - [MetroPlus Health](https://metroplus.org/) + [MetroPlus Health Search Provider App](https://metroplus.org/search-providers/)
-- [Texas Real Estate Research Center](https://trerc.tamu.edu/)
 - [LV Collective](https://lvcollective.com/)
 
 ## 👨‍💻 Skills and Technologies 👨‍💻
