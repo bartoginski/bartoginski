@@ -19,6 +19,7 @@ I have collaborated in the development of large-scale projects:
 ## 👨‍💻 Skills and Technologies 👨‍💻
 
 ### Web Development
+- **Svelte**: My portfolio is in progress using SvelteKit.
 - **React.js**: Building dynamic, interactive UIs and optimizing performance for scalable web apps.
 - **WordPress**: Customizing themes, creating plugins, and managing content with SEO in mind.
 - **JavaScript (ES6+)**: Writing clean, efficient, and maintainable code.
