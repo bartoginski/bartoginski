@@ -5,11 +5,7 @@
 Welcome to my profile! I am a highly motivated Frontend Developer with expertise in building responsive, user-focused web applications. My background includes working in **international US-based teams**, where I’ve gained extensive experience in **React** and **WordPress** development. In addition to web development, I am also a **Junior Mobile Developer** proficient in **Flutter**, creating cross-platform applications.
 
 ## 📸 Professional Highlights 📸
-I have collaborated in the development of large-scale projects:
-- [Bric](https://bricartsmedia.org/) ✨Nominated Website: [Webby Awards](https://winners.webbyawards.com/2024/websites-and-mobile-sites/mobile-specific-features-design/best-mobile-visual-design-function-mobile-features/294466/bric-arts--media)✨
-- [Texas Real Estate Research Center](https://trerc.tamu.edu/) ✨[Won a Web Excellence Award](https://we-awards.com/winner/trerc-turning-data-into-insights/)✨
-- [MetroPlus Health](https://metroplus.org/) + [MetroPlus Health Search Provider App](https://metroplus.org/search-providers/)
-- [LV Collective](https://lvcollective.com/)
+Content goes here 🫡
 
 ## My personal projects (in progress, excited to share soon):
 - 🔨 Portfolio 🔨
