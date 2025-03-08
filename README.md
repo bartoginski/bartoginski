@@ -1,6 +1,6 @@
 # ⚡️ Bartosz Ogiński ⚡️
 
-**🎨 Frontend Developer (_React/WordPress_) | 📱 Junior Mobile Developer (_Flutter_)**
+**🎨 Frontend Developer (_React/WordPress_) | 📱 Junior Mobile Developer (_Swift_)**
 
 Welcome to my profile! I am a highly motivated Frontend Developer with expertise in building responsive, user-focused web applications. My background includes working in **international US-based teams**, where I’ve gained extensive experience in **React** and **WordPress** development. In addition to web development, I am also a **Junior Mobile Developer** proficient in **Flutter**, creating cross-platform applications.
 
@@ -20,11 +20,8 @@ Content goes here 🫡
 - **WordPress**: Customizing themes, creating plugins, and managing content with SEO in mind.
 - **JavaScript (ES6+)**: Writing clean, efficient, and maintainable code.
 - **HTML5 & CSS3**: Crafting pixel-perfect layouts with responsive design techniques. Using TailwindCSS everyday 💨.
-- **Version Control**: Strong experience with **Git** and collaborative workflows using GitHub/Bitbucket.
 
 ### Mobile Development
-- **Flutter**: Developing cross-platform mobile applications with a focus on performance and seamless user experience.
-- **Dart**: Writing efficient, reusable code for mobile apps.
 - **Swift**: I'm learning to write cross platform applications with a specialization towards ios 
 
 ### Team Collaboration
